@@ -1,0 +1,107 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+body{
+    font-size: 14px;
+    background-color: skyblue;
+    padding-top: 20px;
+}
+
+/* container */
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+/* header */
+
+header{
+    
+}
+
+.header-logo img{
+    width: 160px;
+}
+
+/* main */
+
+
+
+/* top-image */
+
+.top-image img{
+    
+}
+
+/* index */
+
+.index{
+    background-color: white;
+    width: 1000px;
+    padding: 20px 0 10px;
+    margin-top: 50px;
+    /* margin: 0 auto; */
+    /* text-align: center; */
+}
+
+.index-text{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.index-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.index-item{
+    line-height: 40px;
+}
+
+/* detail */
+
+.detail{
+    width: 600px;
+    margin: 50px auto 100px;
+}
+
+.detail h2{
+    font-size: 18px;
+    
+}
+
+.detail-wrapper{
+    display: flex;
+    justify-content: space-between;
+    gap: 0 50px;
+}
+
+.detail-image{
+    width: 50%;
+}
+
+.detail-image img{
+    width: 100%;
+}
+
+.detail-text{
+    width: 50%;
+}
+
+.book-title{
+    margin: 0;
+}
+
+/* footer */
+
+.footer-text{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.footer-text p{
+    font-size: 8px;
+}
